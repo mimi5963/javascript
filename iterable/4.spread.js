@@ -38,3 +38,4 @@ console.log(elie);
 elie.home.add='ks';
 console.log(up);
 console.log(elie);
+console.assert()
